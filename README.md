@@ -8,7 +8,7 @@ The Cold Mail Generator is a tool designed for services companies to streamline 
 
 A Job Seeker is an emerging talent in the tech industry with expertise in Python, SQL, data analysis using Power BI, machine learning, and web development. He is interested in exploring job opportunities at Nike, a leading company known for its innovation and excellence. His aims to connect with Nike’s hiring manager to discuss potential roles that align with his skills and qualifications. By leveraging the Cold Mail Generator, He can craft a personalized cold email that highlights his capabilities and enthusiasm for contributing to Nike’s team.
 
-![Architecture Diagram](img.png)
+![Architecture Diagram](Architecture Diagram.png)
 
 ## Features
 
