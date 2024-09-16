@@ -56,19 +56,19 @@ A Job Seeker is an emerging talent in the tech industry with expertise in Python
 
 1. **Start the Application**
 
- *Run the Streamlit app as described in the setup instructions.*
+    *Run the Streamlit app as described in the setup instructions.*
 
 2. **Input URL**
 
- *Enter the URL of a company's careers page into the app.*
+    *Enter the URL of a company's careers page into the app.*
 
 3. **Generate Emails**
 
- *The tool will process the job listings and generate personalized  cold emails.* 
+    *The tool will process the job listings and generate personalized  cold emails.* 
 
 4. **Review and Send**
 
- *Review the generated emails, make any necessary adjustments, and  send them.*
+    *Review the generated emails, make any necessary adjustments, and  send them.*
 
 
 ### Contributing
